@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+}
+
+h1{
+  font-size: 32px;
+  font-weight: normal;
+  font-family: arial;
+  margin-bottom: -10px;
+}
+
+h2{
+  font-weight: normal;
+  font-family: arial;
+  font-size: 20px;
+}
+
+.circ{
+  border: 10px solid black;
+}
+
+#legend{
+  text-align: left;
+}
+
+#tooltip {	
+  position: absolute;			
+  min-width: 100px;					
+  padding: 10px;				
+  font-size: 13px;
+  font-family: arial;
+  background: white;	
+  border-radius: 5px;		
+  text-align: left;
+  border: 1px solid black;
+}
